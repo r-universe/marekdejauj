@@ -1,7 +1,32 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/marekdejauj/marekdejauj.r-universe.dev
 	branch = HEAD
+[submodule "BrakiDanychUX"]
+	path = BrakiDanychUX
+	url = https://github.com/BBochenczak19D/BrakiDanychUX
+[submodule "CausalBoundsR"]
+	path = CausalBoundsR
+	url = https://github.com/michaljanus-student/casual-bonds-r
+[submodule "IndeksH"]
+	path = IndeksH
+	url = https://github.com/MarekDejaUJ/jezykr2
+	subdir = IndeksH
+[submodule "KaskadaR"]
+	path = KaskadaR
+	url = https://github.com/eryktomaszek/KaskadaR
+[submodule "PrzelomoweR"]
+	path = PrzelomoweR
+	url = https://github.com/samisamisamisami333/PrzelomoweR
+[submodule "RamyR"]
+	path = RamyR
+	url = https://github.com/nika0410/RamyR
+[submodule "WskaznikI3R"]
+	path = WskaznikI3R
+	url = https://github.com/milakasz08/WskaznikI3R
+[submodule "WyparcieR"]
+	path = WyparcieR
+	url = https://github.com/mendelowska-karolina/wyparcie-r
 [submodule "rzig"]
 	path = rzig
-	url = https://github.com/marekdejauj/rzig
+	url = https://github.com/MarekDejaUJ/rzig
